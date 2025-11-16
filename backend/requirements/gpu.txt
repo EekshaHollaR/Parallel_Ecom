@@ -1,0 +1,4 @@
+# GPU Acceleration (Optional)
+numba==0.57.1
+cupy-cuda11x==12.2.0  # For CUDA 11.x
+# pycuda==2023.1.1  # Alternative, uncomment if preferred

@@ -1,0 +1,3 @@
+# Celery for Async Tasks
+celery==5.3.4
+flower==2.0.1  # Celery monitoring
